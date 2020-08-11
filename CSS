@@ -102,7 +102,7 @@
     border-radius:10px;
 }
 
-#tekst{
+#text{
 background: -webkit-linear-gradient(blue, red);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
